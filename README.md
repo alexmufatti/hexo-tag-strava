@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/alexmufatti/hexo-tag-strava.svg?branch=master)](https://travis-ci.org/alexmufatti/hexo-tag-strava)
+[![Build Status](https://travis-ci.com/alexmufatti/hexo-tag-strava.svg?branch=master)](https://travis-ci.com/alexmufatti/hexo-tag-strava)
 
 # hexo-tag-strava
 
