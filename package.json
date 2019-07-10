@@ -1,0 +1,40 @@
+{
+  "name": "hexo-tag-strava",
+  "version": "0.1.2",
+  "main": "index",
+  "dependencies": {},
+  "description": "Embed strava connect activity tag plugin for Hexo.",
+  "devDependencies": {
+    "chai": "^4.1.2"
+  },
+  "scripts": {
+    "test": "mocha **/*.spec.js"
+  },
+  "directories": {},
+  "author": {
+    "email": "me@alexmufatti.it",
+    "name": "Alex Mufatti",
+    "url": "https://alexmufatti.it/"
+  },
+  "bugs": {
+    "url": "https://github.com/alexmufatti/hexo-tag-strava/issues"
+  },
+  "keywords": [
+    "hexo",
+    "tag",
+    "strava",
+    "embed",
+    "blog"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "Alex Mufatti",
+      "email": "me@alexmufatti.it"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexmufatti/hexo-tag-strava.git"
+  }
+}
